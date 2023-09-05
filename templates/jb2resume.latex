@@ -6,7 +6,7 @@
 %
 % GitHub: https://github.com/john-bokma/resume-pandoc
 
-\documentclass[$if(fontsize)$$fontsize$$else$10pt$endif$,letterpaper]{article}
+\documentclass[$if(fontsize)$$fontsize$$else$11pt$endif$,letterpaper]{article}
 
 \usepackage{hyperref}
 \usepackage{geometry}
@@ -47,9 +47,7 @@
 
 % Page number is top right, and it is possible to control the rest of
 % the header.
-\pagestyle{myheadings}
-\markright{\name}
-\thispagestyle{empty}
+\pagestyle{empty}
 
 % Custom section fonts
 \usepackage{sectsty}

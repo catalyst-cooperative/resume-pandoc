@@ -1,37 +1,27 @@
 # resume-pandoc
 
-LaTeX resume template for Pandoc based on Jason R. Blevins' template;
-http://jblevins.org/projects/cv-template/.
+LaTeX resume template for Pandoc based on [John Bokma's pandoc resume](https://github.com/john-bokma/resume-pandoc).
 
-I've included my own resume in markdown format as an example.
-To create the LaTeX version, use:
+Updated to comply with NSF grant application guidelines, and with resume information for all Cats.
 
-~~~
-pandoc perl-programmer-john-bokma-resume.md -f markdown+yaml_metadata_block \
-  --template templates/jb2resume.latex \
-  -o perl-programmer-john-bokma-resume.tex
-~~~
+## Usage
 
-And to create the PDF version, use:
+Update the markdown files with new resume information.
 
-~~~
-pandoc perl-programmer-john-bokma-resume.md -f markdown+yaml_metadata_block \
-  --template templates/jb2resume.latex \
-  -o perl-programmer-john-bokma-resume.pdf
-~~~
+If you need to make a new resume, copy `template.md`.
 
-## Getting Started on Ubuntu 17.04
+To build, you'll need `pandoc` and `pdflatex`.
 
-Please read my blog entry
-[Installing the latest version of Pandoc on Ubuntu 17.04](http://johnbokma.com/blog/2017/05/17/installing-latest-pandoc-on-ubuntu.html), which
-provides an easy walk-through.
+On Mac, you can get this with:
 
-## Using Docker
+```bash
+$ brew install pandoc mactex
+```
 
-Please read my blog entry
-[Giving Docker Desktop for macOS a Second
-Chance](http://johnbokma.com/blog/2021/06/02/giving-docker-desktop-for-macos-a-second-chance.html),
-which provides an easy walk-through.
+```bash
+$ make
+```
+
 
 ## YAML Meta Block
 
@@ -50,7 +40,7 @@ right-column
    name on the first page.
 
 fontsize
- : default `10pt`.
+ : default `11pt`.
 
 fontenc
  : default `T1`.
@@ -78,12 +68,9 @@ section-color
 Regarding the last two options: if you just want to change the font to
 sans serif bold you can just use the color `black`.
 
-# Example PDF
-
-See [http://castleamber.com/documents/perl-programmer-john-bokma-resume.pdf](http://castleamber.com/documents/perl-programmer-john-bokma-resume.pdf).
-
 # Credits
 
+- John Bokma for gluing Markdown to Pandoc.
 - Jason R. Blevins for making the LaTeX resume example that inspired this
   template.
 - Christoph Frings and Andrew for their help with description list; reference
