@@ -2,12 +2,19 @@
 name: Katie Lamb
 
 left-column:
-  - Berkeley, CA
+  - "Email: [katherine.lamb@catalyst.coop](mailto:katherine.lamb@catalyst.coop)"
 
 right-column:
-  - "Email: [katherine.lamb@catalyst.coop](mailto:katherine.lamb@catalyst.coop)"
   - "GitHub: [github.com/katie-lamb](https://github.com/katie-lamb)"
 ...
+
+# Education
+
+Stanford University, Stanford CA
+: Computer Science - Artificial Intelligence, BS; 2020.
+
+Stanford University, Stanford CA
+: Civil & Environmental Engineering - Atmosphere & Energy, MS; 2021.
 
 # Work Experience
 
@@ -64,14 +71,6 @@ Software Engineering Intern
 - Paired data from the EPA’s EJSCREEN tool with locations of non-residential solar from lab’s DeepSolar model
 - Preliminary findings show correlations between socioeconomics (income, race, education level) and proximity to non-residential solar projects
 - Potential use for Biden administration’s environmental justice and infrastructure initiatives
-
-# Education
-
-Stanford University, Stanford CA
-: Computer Science - Artificial Intelligence, BS; 2020.
-
-Stanford University, Stanford CA
-: Civil & Environmental Engineering - Atmosphere & Energy, MS; 2021.
 
 # Skills
 

@@ -2,12 +2,22 @@
 name: Zane Selvans
 
 left-column:
-  - San Cristóbal de las Casas, Chiapas
+  - "Email: [zane.selvans@catalyst.coop](mailto:zane.selvans@catalyst.coop)"
 
 right-column:
-  - "Email: [zane.selvans@catalyst.coop](mailto:zane.selvans@catalyst.coop)"
   - "GitHub: [github.com/zaneselvans](https://github.com/zaneselvans)"
 ...
+
+# Education
+
+University of Colorado, Boulder CO
+: Geological Sciences, Ph.D.; 2009.
+
+University of Colorado, Boulder CO
+: Geological Sciences, M.S.; 2007.
+
+Caltech, Pasadena CA
+: Engineering & Applied Science, B.Sc.; 1998.
 
 # Work Experience
 
@@ -140,17 +150,6 @@ City of Boulder Working Group Member
 : 2012 - 2013
 
 - Provided feedback on and review of City plans and reports related to economic and operational risks, scenarios, and decision making processes for Boulder’s proposed takeover of local electric utility infrastructure.
-
-# Education
-
-University of Colorado, Boulder CO
-: Geological Sciences, Ph.D.; 2009.
-
-University of Colorado, Boulder CO
-: Geological Sciences, M.S.; 2007.
-
-Caltech, Pasadena CA
-: Engineering & Applied Science, B.Sc.; 1998.
 
 # Skills
 

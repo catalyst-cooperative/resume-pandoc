@@ -2,18 +2,27 @@
 name: Austen Sharpe
 
 left-column:
-  - Golden, CO
+  - "Email: [austen.sharpe@catalyst.coop](mailto:austen.sharpe@catalyst.coop)"
 
 right-column:
-  - "Email: [austen.sharpe@catalyst.coop](mailto:austen.sharpe@catalyst.coop)"
   - "GitHub: [github.com/aesharpe](https://github.com/aesharpe)"
 ...
 
-# Summary
+# Education
 
-Passionate, organized self-starter; manages tasks with interdisciplinary and entrepreneurial mien. Aspiring renewable energy grid integration specialist and sustainable policy advocate.
+Brown University, Providence RI
+: Environmental Studies, Sustainability in Development, BA; 3.69 GPA; 2018.
 
-# Experience
+- Awarded Best Performance in the Department
+- Participant in Engaged Scholars Program
+- Relevant Courses: Energy Policy, Environmental Law & Policy, Environmental Policy Process, Sustainable Investing, Environmental Research Methods, Statistics, Interfaces Information Automation, OO Programing.
+
+Pontificia U. Católica de Chile & U. De Chile, Santiago Chile
+: Exchange Student; 2019
+
+- Relevant Courses: Chilean Energy Policy, Research Seminar on Soil Remediation, Sustainable Development, Chilean Environmental Law & Policy.
+
+# Work Experience
 
 ## Catalyst Cooperative
 
@@ -79,20 +88,6 @@ Co-chair
 
 - Led campaign for endowment’s divestment from fossil firms by organizing teach-ins, panels, coordination with other student groups, alumni, & engaged university administration.
 - Developed proposal for sustainable investing by evaluating fund managers, firms, & companies.
-
-# Education
-
-Brown University, Providence RI
-: Environmental Studies, Sustainability in Development, BA; 3.69 GPA; 2018.
-
-- Awarded Best Performance in the Department
-- Participant in Engaged Scholars Program
-- Relevant Courses: Energy Policy, Environmental Law & Policy, Environmental Policy Process, Sustainable Investing, Environmental Research Methods, Statistics, Interfaces Information Automation, OO Programing.
-
-Pontificia U. Católica de Chile & U. De Chile, Santiago Chile
-: Exchange Student; 2019
-
-- Relevant Courses: Chilean Energy Policy, Research Seminar on Soil Remediation, Sustainable Development, Chilean Environmental Law & Policy.
 
 # Skills
 

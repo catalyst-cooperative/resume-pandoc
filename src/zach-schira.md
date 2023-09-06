@@ -2,18 +2,22 @@
 name: Zach Schira
 
 left-column:
-  - Gainesville, FL
+  - "Email: [zach.schira@catalyst.coop](mailto:zach.schira@catalyst.coop)"
 
 right-column:
-  - "Email: [zach.schira@catalyst.coop](mailto:zach.schira@catalyst.coop)"
   - "GitHub: [github.com/zschira](https://github.com/zschira)"
 ...
 
-# Experience
+# Education
+
+University of Colorado, Boulder CO
+: Aerospace Engineering, Computer Science minor; 2018.
+
+# Work Experience
 
 ## Catalyst Cooperative
 
-Data Engineer
+Software Engineer
 : Jan 2021 - Present
 
 - Develop open source software to archive, clean, and distribute US federal energy data
@@ -39,11 +43,6 @@ Analytics Hub Team Member
 - Supported research analyzing remote sensing datasets to further Earth and environmental sciences
 - Applied computer vision techniques to identify individual plant species from aerial imagery
 - Collaborated with researchers from a diverse set of disciplines and backgrounds
-
-# Education
-
-University of Colorado, Boulder CO
-: Aerospace Engineering, Computer Science minor; 2018.
 
 # Skills
 

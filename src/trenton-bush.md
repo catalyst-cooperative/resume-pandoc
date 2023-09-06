@@ -2,14 +2,24 @@
 name: Trenton Bush
 
 left-column:
-  - San Diego, CA
+  - "Email: [trenton.bush@catalyst.coop](mailto:trenton.bush@catalyst.coop)"
 
 right-column:
-  - "Email: [trenton.bush@catalyst.coop](mailto:trenton.bush@catalyst.coop)"
   - "GitHub: [github.com/TrentonBush](https://www.github.com/TrentonBush)"
 ...
 
-# Experience
+# Education
+
+Grinnell College, Grinnell, IA
+: Physics, BA; Statistics; 3.6 GPA; 2012.
+
+University of Massachusetts Amherst, Amherst, MA
+: Mechanical Engineering, MS; 3.8 GPA; 2016.
+
+DataCamp, Online
+: Ranked #1 student on the platform 4 consecutive times; 2020.
+
+# Work Experience
 
 ## Catalyst Cooperative
 
@@ -72,17 +82,6 @@ Fully funded research to design, build, and test a supersonic powder spray depos
 
 - Independent research project to assess the impact of turbulence on wind energy production. Scoped and designed experiment, found source data, spectral analysis of 1TB meteorological time series dataset.
 - Implemented custom CV splitter to mitigate data leakage due to autocorrelation (blocking and buffering)
-
-# Education
-
-Grinnell College, Grinnell, IA
-: Physics, BA; Statistics; 3.6 GPA; 2012.
-
-University of Massachusetts Amherst, Amherst, MA
-: Mechanical Engineering, MS; 3.8 GPA; 2016.
-
-DataCamp, Online
-: Ranked #1 student on the platform 4 consecutive times; 2020.
 
 # Skills
 

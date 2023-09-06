@@ -2,18 +2,27 @@
 name: Ella Belfer
 
 left-column:
-  - Montreal, Quebec
+  - "Email: [ella.belfer@catalyst.coop](mailto:ella.belfer@catalyst.coop)"
 
 right-column:
-  - "Email: [ella.belfer@catalyst.coop](mailto:ella.belfer@catalyst.coop)"
   - "GitHub: [github.com/e-belfer](https://github.com/e-belfer)"
 ...
 
-# Summary
+# Education
 
-Drawing on years of experience in energy and climate research, I bring a detail-oriented, interdisciplinary approach to data analysis. I draw on extensive technical training to draw robust and reproducible insights from large energy and environmental datasets.
+UC Berkeley, Berkeley CA
+: Energy and Resources, MA; 2020.
 
-# Experience
+- Thesis: Surfacing overlying rights: Transitions in access to California’s groundwater basins (co-authored with Jenny Rempel)
+- Selected coursework: Spatial Data and Analysis (Python), Back-end Web Architecture (Python, Docker, AWS), Interdisciplinary Analysis in Energy and Resources, Quantitative Aspects of Global Environmental Problems
+
+McGill University, Montreal QC
+: Environmental Studies & Economics, BA; 2016.
+
+- Graduated with First Class Joint Honors distinction, final GPA of 3.97
+- Selected Coursework: Honors Economic Statistics, Econometrics
+
+# Work Experience
 
 ## Catalyst Cooperative
 
@@ -85,17 +94,3 @@ Research Assistant
 
 Languages
 : French: intermediate, Hebrew: intermediate
-
-# Education
-
-UC Berkeley, Berkeley CA
-: Energy and Resources, MA; 2020.
-
-- Thesis: Surfacing overlying rights: Transitions in access to California’s groundwater basins (co-authored with Jenny Rempel)
-- Selected coursework: Spatial Data and Analysis (Python), Back-end Web Architecture (Python, Docker, AWS), Interdisciplinary Analysis in Energy and Resources, Quantitative Aspects of Global Environmental Problems
-
-McGill University, Montreal QC
-: Environmental Studies & Economics, BA; 2016.
-
-- Graduated with First Class Joint Honors distinction, final GPA of 3.97
-- Selected Coursework: Honors Economic Statistics, Econometrics

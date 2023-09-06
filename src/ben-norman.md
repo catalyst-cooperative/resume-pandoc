@@ -2,14 +2,21 @@
 name: Bennett Dell Norman
 
 left-column:
-  - Anchorage, AK
+  - "Email: [bennett.norman@catalyst.coop](mailto:bennett.norman@catalyst.coop)"
 
 right-column:
-  - "Email: [bennett.norman@catalyst.coop](mailto:bennett.norman@catalyst.coop)"
   - "GitHub: [github.com/bendnorman](https://github.com/bendnorman)"
 ...
 
-# Experience
+# Education
+
+Cornell Tech, New York NY
+: Computer Science, ME; 2019.
+
+Cornell University, Ithaca NY
+: Computer Science, BS (Music minor); 2018.
+
+# Work Experience
 
 ## Catalyst Cooperative
 
@@ -69,14 +76,6 @@ A project analyzing the distribution of new affordable units in areas of opportu
 **Cornell University**
 
 I worked on a research project to improve image captioning by implementing a loss function that computers semantic similarity between captions using Word Movers Distance. We were advised by Professor Kilian Weinberger.
-
-# Education
-
-Cornell University, Ithaca NY
-: Computer Science, BS (Music minor); 2018.
-
-Cornell Tech, New York NY
-: Computer Science, ME; 2019.
 
 # Skills
 

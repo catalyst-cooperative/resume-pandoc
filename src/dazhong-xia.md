@@ -1,22 +1,23 @@
 ---
 name: Dazhong Xia
+
 left-column:
-  - Sommerville, MA
+  - "Email: [dazhong.xia@catalyst.coop](mailto:dazhong.xia@catalyst.coop)"
 
 right-column:
-  - "Email: [dazhong.xia@catalyst.coop](mailto:dazhong.xia@catalyst.coop)"
   - "GitHub: [github.com/jdangerx](https://github.com/jdangerx)"
 ...
 
-# Summary
+# Education
 
-IC with an organizational focus, or engineering manager with recent hands-on experience. Professional experience in Python, Javascript, Java, and Elixir, which have been applied to full stack web development, devops and automation, and data engineering.
+University of Chicago
+: Physics, BA; 2014.
 
-# Experience
+# Work Experience
 
 ## Catalyst Cooperative
 
-Data Engineer
+Software Engineer
 : Jan 2023 - present
 
 - Develop tools for archiving and cleaning federal energy sector data from a variety of sources
@@ -106,11 +107,3 @@ Participant
 
 - Wrote a Git clone in Haskell
 - Worked on NAND2Tetris: designed a CPU, wrote an assembler, and wrote a compiler
-
-# Education
-
-University of Chicago
-: Physics, BA; 2014.
-
-Languages
-: English, Mandarin Chinese
