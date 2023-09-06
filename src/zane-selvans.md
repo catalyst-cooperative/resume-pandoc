@@ -143,13 +143,13 @@ City of Boulder Working Group Member
 
 # Education
 
-University of Colorado; Boulder, CO
+University of Colorado, Boulder CO
 : Geological Sciences, Ph.D.; 2009.
 
-University of Colorado; Boulder, CO
+University of Colorado, Boulder CO
 : Geological Sciences, M.S.; 2007.
 
-Caltech; Pasadena, CA
+Caltech, Pasadena CA
 : Engineering & Applied Science, B.Sc.; 1998.
 
 # Skills

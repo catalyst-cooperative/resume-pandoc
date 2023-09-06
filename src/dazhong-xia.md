@@ -17,7 +17,7 @@ IC with an organizational focus, or engineering manager with recent hands-on exp
 ## Catalyst Cooperative
 
 Data Engineer
-: January 2023 - present
+: Jan 2023 - present
 
 - Develop tools for archiving and cleaning federal energy sector data from a variety of sources
 - Clarify team priorities and next steps by refining project management processes
@@ -36,8 +36,6 @@ Contract Full Stack Developer
 
 ## Populus
 
-**Apr 2022 - Sep 2022**
-
 Interim Engineering Manager - Platform Team
 : Jul 2022 - Sep 2022
 
@@ -53,8 +51,6 @@ Senior Backend Engineer
 - Work with developers who have domain knowledge to design data pipeline monitoring and alerting
 
 ## EnergyHub
-
-**February 2019 - December 2021**
 
 Engineering Manager - Data & Automation; Data & Dispatch
 : Oct 2020 - Dec 2021
@@ -87,7 +83,7 @@ Senior Software Engineer
 ## Recurse Center
 
 Participant
-: September 2018 - December 2018
+: Sep 2018 - Dec 2018
 
 - Learn about formal specification of systems using TLA+
 - Explore the basic principles of deep learning by writing a simple neural network
@@ -95,7 +91,7 @@ Participant
 ## Teachers Pay Teachers
 
 Senior Software Engineer - Search, Discovery and Personalization
-: February 2016 - August 2018
+: Feb 2016 - Aug 2018
 
 - Worked with product management, educational experts, and designers to coordinate feature development around user profiles and search experience
 - Increased transparency & communication around org-wide decisions
@@ -106,7 +102,7 @@ Senior Software Engineer - Search, Discovery and Personalization
 ## Recurse Center
 
 Participant
-: August 2015 - November 2015
+: Aug 2015 - Nov 2015
 
 - Wrote a Git clone in Haskell
 - Worked on NAND2Tetris: designed a CPU, wrote an assembler, and wrote a compiler

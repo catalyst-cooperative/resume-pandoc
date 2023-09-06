@@ -68,11 +68,10 @@ Software Engineering Intern
 # Education
 
 Stanford University, Stanford CA
-:
+: Computer Science - Artificial Intelligence, BS; 2020.
 
-Computer Science - Artificial Intelligence, BS; 2020.
-
-Civil & Environmental Engineering - Atmosphere & Energy, MS; 2021.
+Stanford University, Stanford CA
+: Civil & Environmental Engineering - Atmosphere & Energy, MS; 2021.
 
 # Skills
 

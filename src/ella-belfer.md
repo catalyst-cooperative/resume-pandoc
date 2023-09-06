@@ -27,7 +27,7 @@ Data Engineer
 ## Eagle Rock Analytics
 
 Research Associate
-: Jun 2022 - Present
+: Jun 2022 - Jan 2023
 
 - Using Python and Jupyter Notebooks, build an open-source historical data platform, cleaning and normalizing data from >15 surface meteorological observation networks for the WECC region. Automate data intake/cleaning processes.
 - Develop and implement robust QA/QC procedures in collaboration with a multidisciplinary team, design and implement standardized metadata for stations, variables
