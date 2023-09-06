@@ -1,10 +1,12 @@
 ---
 name: Zach Schira
+
 left-column:
-  - 'Phone: (602) 568-2170'
+  - Gainesville, FL
 
 right-column:
-  - 'Email: [zach.schira@gmail.com](mailto:zach.schira@gmail.com)'
+  - "Email: [zach.schira@catalyst.coop](mailto:zach.schira@catalyst.coop)"
+  - "GitHub: [github.com/zschira](https://github.com/zschira)"
 ...
 
 # Experience
@@ -23,7 +25,6 @@ Data Engineer
 Flight Software Engineer
 : Sep 2018 - Jan 2021
 
-
 - Developed flight software for upcoming OSAM-1 spacecraft (previously Restore-L)
 - Implemented algorithms to determine 6-DOF Pose of client satellite to aid in autonomous rendezvous and docking of two satellites
 - Developed and optimized advanced machine learning/computer vision algorithms
@@ -38,6 +39,7 @@ Analytics Hub Team Member
 - Supported research analyzing remote sensing datasets to further Earth and environmental sciences
 - Applied computer vision techniques to identify individual plant species from aerial imagery
 - Collaborated with researchers from a diverse set of disciplines and backgrounds
+
 # Education
 
 University of Colorado, Boulder CO
@@ -46,4 +48,3 @@ University of Colorado, Boulder CO
 # Skills
 
 Python, Git, R, Software Engineering, Data Cleaning and Analysis, GCP, Machine Learning, C, C++
-

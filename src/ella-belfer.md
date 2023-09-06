@@ -2,10 +2,11 @@
 name: Ella Belfer
 
 left-column:
-  - "Email: [ella.belfer@catalyst.coop](mailto:ella.belfer@catalyst.coop)"
+  - Montreal, Quebec
 
 right-column:
-  - "GitHub: [github.com/e-belfer](https://www.github.com/e-belfer)"
+  - "Email: [ella.belfer@catalyst.coop](mailto:ella.belfer@catalyst.coop)"
+  - "GitHub: [github.com/e-belfer](https://github.com/e-belfer)"
 ...
 
 # Summary
@@ -31,7 +32,6 @@ Research Associate
 - Using Python and Jupyter Notebooks, build an open-source historical data platform, cleaning and normalizing data from >15 surface meteorological observation networks for the WECC region. Automate data intake/cleaning processes.
 - Develop and implement robust QA/QC procedures in collaboration with a multidisciplinary team, design and implement standardized metadata for stations, variables
 
-
 ## D-Lab, UC Berkeley
 
 Instructor and Consultant
@@ -47,7 +47,6 @@ Research Fellow
 
 - Conducted an extensive literature review, sourcing and vetting datasets of water infrastructure, climate variables, and other vulnerability factors.
 
-
 ## UC Berkeley
 
 Graduate Student Instructor
@@ -55,7 +54,6 @@ Graduate Student Instructor
 
 - Introduction to Social Theory: Ran 2 25-student discussion sections, focused on current social and environmental justice issues
 - Climate Change Economics: Demonstrated conceptual and practical methods for designing integrated assessment models using Excel.
-
 
 ## Climate Change Adaptation Research Group, McGill University
 
@@ -67,6 +65,7 @@ Research Assistant
 - Provided ongoing editorial support for journal articles, grant proposals, and public communications for the CCARG lab.
 
 # Publications and Outputs
+
 - Belfer, E., Rempel, J., Ray, I. & Morello-Frosch, R. Surfacing overlying rights: Transitions in access to California’s groundwater basins. Under review at Environmental Research Letters.
   - Presented at the 2021 AAG conference.
 - Lesnikowski, A., Belfer, E., Rodman, E., Biesbroek, R., Smith, J., Wilkerson, J.D., Ford, J.D., Berrang Ford, L. (2019). Frontiers in data analytics for adaptation research: Topic modeling, WIRES Climate Change, e576 1-15.
@@ -76,6 +75,7 @@ Research Assistant
   - Selected to be one of Nature Climate Change’s Research Highlights, and presented at the 2017 ArcticNet conference.
 
 # Skills
+
 - Python and Jupyter Notebooks (5 years exp.): dask, pandas, geopandas, flask, numpy, scipy
 - Version control in Github (4 years exp.)
 - Docker (1 year exp.)

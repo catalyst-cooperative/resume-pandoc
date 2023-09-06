@@ -3,10 +3,9 @@ name: Trenton Bush
 
 left-column:
   - San Diego, CA
-  - "Phone: (641) 831-2104"
 
 right-column:
-  - "Email: [tpb.career@gmail.com](mailto:tpb.career@gmail.com)"
+  - "Email: [trenton.bush@catalyst.coop](mailto:trenton.bush@catalyst.coop)"
   - "GitHub: [github.com/TrentonBush](https://www.github.com/TrentonBush)"
 ...
 

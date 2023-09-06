@@ -2,10 +2,11 @@
 name: Katie Lamb
 
 left-column:
-  - "Phone: (339) 223-5703"
+  - Berkeley, CA
 
 right-column:
-  - "Email: [katherinelamb16@gmail.com](mailto:katherinelamb16@gmail.com)"
+  - "Email: [katherine.lamb@catalyst.coop](mailto:katherine.lamb@catalyst.coop)"
+  - "GitHub: [github.com/katie-lamb](https://github.com/katie-lamb)"
 ...
 
 # Work Experience
@@ -47,6 +48,7 @@ Software Engineering Intern
 # Research
 
 ## Dr. Arun Majumdar Lab
+
 **Sep 2020 - Sep 2021**
 
 ### Power Grid Vulnerability Mapping
@@ -66,7 +68,7 @@ Software Engineering Intern
 # Education
 
 Stanford University, Stanford CA
-: 
+:
 
 Computer Science - Artificial Intelligence, BS; 2020.
 

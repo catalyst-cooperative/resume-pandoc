@@ -1,16 +1,18 @@
 ---
 name: Dazhong Xia
 left-column:
-  - 'Email: [john.danger.xia@gmail.com](mailto:john.danger.xia@gmail.com)'
+  - Sommerville, MA
+
 right-column:
-  - 'GitHub: [https://github.com/jdangerx/](https://github.com/jdangerx/)'
+  - "Email: [dazhong.xia@catalyst.coop](mailto:dazhong.xia@catalyst.coop)"
+  - "GitHub: [github.com/jdangerx](https://github.com/jdangerx)"
 ...
 
 # Summary
 
 IC with an organizational focus, or engineering manager with recent hands-on experience. Professional experience in Python, Javascript, Java, and Elixir, which have been applied to full stack web development, devops and automation, and data engineering.
 
-# Experience 
+# Experience
 
 ## Catalyst Cooperative
 
@@ -51,6 +53,7 @@ Senior Backend Engineer
 - Work with developers who have domain knowledge to design data pipeline monitoring and alerting
 
 ## EnergyHub
+
 **February 2019 - December 2021**
 
 Engineering Manager - Data & Automation; Data & Dispatch
@@ -91,7 +94,6 @@ Participant
 
 ## Teachers Pay Teachers
 
-
 Senior Software Engineer - Search, Discovery and Personalization
 : February 2016 - August 2018
 
@@ -113,7 +115,6 @@ Participant
 
 University of Chicago
 : Physics, BA; 2014.
-
 
 Languages
 : English, Mandarin Chinese

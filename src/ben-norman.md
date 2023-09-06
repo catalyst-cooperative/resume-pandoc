@@ -2,11 +2,11 @@
 name: Bennett Dell Norman
 
 left-column:
-  - "Phone: (415) 272-9795"
-  - "Email: [bdn29@cornell.edu](mailto:bdn29@cornell.edu)"
+  - Anchorage, AK
 
 right-column:
-  - "Homepage: [bendnorman.github.io](https://bendnorman.github.io)"
+  - "Email: [bennett.norman@catalyst.coop](mailto:bennett.norman@catalyst.coop)"
+  - "GitHub: [github.com/bendnorman](https://github.com/bendnorman)"
 ...
 
 # Experience
@@ -18,15 +18,14 @@ Data Engineer
 
 Catalyst creates and maintains an open source data pipeline that automatically cleans, integrates, validates, and publishes US energy data for climate advocates, researchers and journalists.
 
-
 ## Envelope
 
 <!-- When did Ben stop working at Envelope? -->
+
 Data Scientist
 : Aug 2019 - Aug 2021
 
 Envelope combines predictive analytics with the most accurate 3D modeling of zoning laws to identify land acquisition opportunities. I create models to value buildings, understand ownership networks, and analyze market changes.
-
 
 ## Department of City Planning NYC
 
@@ -36,6 +35,7 @@ Data Engineer
 Worked on the ETL of NYC public datasets including the city’s parcel, facility and environmental review datasets. I also volunteered at planning community hearings.
 
 ## Jenny Sabin Design Lab
+
 Research Associate
 : Jun 2016 - Jun 2018
 
@@ -43,6 +43,7 @@ Worked on a software project called RoboSense that enables architects to easily 
 and Acadia 2018.
 
 ## Autodesk
+
 Machine Learning Intern
 : Jun 2017 - Aug 2017
 
@@ -63,7 +64,6 @@ a 3D model recommendation system.
 
 A project analyzing the distribution of new affordable units in areas of opportunity in NYC. Only a quarter of new affordable units built since 2014 in NYC are in moderate to very high economic opportunity tracts.
 
-
 ### Image Captioning Machine Learning Research
 
 **Cornell University**
@@ -80,7 +80,7 @@ Cornell Tech, New York NY
 
 # Skills
 
-Python, Pandas, GCP, Dagster, scikit-learn, Docker, postgis, Geospatial python, GCP, PyTorch, streamlit, QGIS
+Python, Pandas, Dagster, scikit-learn, Docker, postgis, Geospatial Python, GCP, PyTorch, streamlit, QGIS
 
 # Miscellaneous
 
