@@ -24,7 +24,8 @@ Data Scientist
 : Dec 2021 - Present
 
 - Develop Public Utility Data Liberation (PUDL) project - open source data pipeline for public energy data, work with ETL, orchestration, CI/CD best practices
-- Built machine learning framework for entity matching between FERC and EIA datasets
+- Built machine learning framework for entity matching between FERC and EIA datasets, work funded by Climate Change AI
+- Used LayoutLM to extract Ex. 21 tables from unstructured SEC 10K filings in order to map parent companies to subsidiary utility companies, work funded by Mozilla Technology Fund
 - Brought in multiple new client leads and wrote grant applications
 
 ## PRO Unlimited for Google
