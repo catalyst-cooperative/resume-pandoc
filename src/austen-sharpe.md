@@ -31,6 +31,7 @@ Data Analyst
 
 - Clean and integrate new datasets (EIA861) and older years (EIA860, EIA923) into the Public Utilities Data Liberation Database. Create user notebooks and clear documentation.
 - Provide customized energy data and analysis for clients such as Rocky Mountain Institute, and Energy Innovations.
+- Present to students at Colorado School of Mines about our tool, PUDL, and the use of python for data cleaning in their research.
 
 ## E9 Insight
 
