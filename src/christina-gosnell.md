@@ -64,7 +64,7 @@ Research Assistant
 
 # Conference Presentations
 
-- Dazhong Xia - Catalyst Cooperative,  Greg Schivley - Princeton University, Ted Nance - Global Energy Monitor), **Christina Gosnell** - Catalyst Cooperative, and Greg Miller - Singularity Energy (2023). "Let's talk about open data for energy modelling." OpenMod Workshop.
+- Dazhong Xia - Catalyst Cooperative,  Greg Schivley - Princeton University, Ted Nance - Global Energy Monitor), **Christina Gosnell** - Catalyst Cooperative, and Greg Miller - Singularity Energy (2023). "Let's talk about open data for energy modelling." Open Energy Modeling Initiative meets USA Workshop.
 - Zane Selvans, **Christina Gosnell** (2021). "Distributing Power with Open Data." csv,conf,v6.
 - **Christina Gosnell**, Zane Selvans (2021). "Distributing Power with Open Data." Closing Keynote. Summit of the Research Data Access & Preservation Association.
 - Daniel Park, Ruby Quintana, **Christina Gosnell**, Rafael Gil Ortiz, John
@@ -76,7 +76,7 @@ Abrams (2020). "A Worker Led Green New Deal." US Federation of Worker Cooperativ
 
 ## Philadelphia Area Cooperative Association
 
-Board Member, Policy Advocacy Committee Member
+Board Member, Board Treasurer, Policy Advocacy Committee Member
 : 2020 - present
 
 - Advocate for investment in cooperative businesses and housing cooperatives as a tool for affordable housing
