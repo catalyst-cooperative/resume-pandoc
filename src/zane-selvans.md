@@ -84,14 +84,15 @@ Build and Integration Engineer
 
 # Publications
 
-- **Zane Selvans**, Christina Gosnell, Austen Sharpe, Steven Winter, Bennett Norman, Trenton Bush, Zach Schira, Katherine Lamb (Updated: 2022). Public Utility Data Liberation (PUDL) Project Data Release. (doi: [10.5281/zenodo.3653158](https://doi.org/10.5281/zenodo.3653158))
-- **Zane Selvans**, Christina Gosnell, Austen Sharpe, Steven Winter, Trenton Bush, Bennett Norman, Zach Schira, Katie Lamb (Updated: 2022). Public Utility Data Liberation (PUDL) Project Software Release. Zenodo. (doi: [10.5281/zenodo.3404014](https://doi.org/10.5281/zenodo.3404014))
+- **Zane Selvans**, Christina Gosnell, Austen Sharpe, Bennett Norman, Trenton Bush, Zach Schira, Katherine Lamb, Ella Belfer, Dazhong Xia (Last Updated: Feb., 2024). Public Utility Data Liberation (PUDL) Project Data Release. (doi: [10.5281/zenodo.3653158](https://doi.org/10.5281/zenodo.3653158))
+- **Zane Selvans**, Christina Gosnell, Austen Sharpe, Trenton Bush, Bennett Norman, Zach Schira, Katie Lamb, Ella Belfer, Dazhong Xia (Last Updated: Feb., 2024). Public Utility Data Liberation (PUDL) Project Software Release. Zenodo. (doi: [10.5281/zenodo.3404014](https://doi.org/10.5281/zenodo.3404014))
 - John Wahr, **Zane A. Selvans**, McCall E.Mullen, Amy C. Barr, Geoffrey C. Collins, Michelle M. Selvans, Robert T. Pappalardo (2009). “Modeling Stresses on Satellites due to Non-Synchronous Rotation and Orbital Eccentricity Using Gravitational Potential Theory“ Icarus, Vol. 200, Issue 1, Pages 188-206 (doi: [10.1016/j.icarus.2008.11.002](https://doi.org/10.1016/j.icarus.2008.11.002))
 - **Zane A. Selvans** (2009) “Time, Tides, and Tectonics on Icy Satellites.” University of Colorado, PhD Dissertation. (doi: [10.5281/zenodo.3455892](https://doi.org/10.5281/zenodo.3455892))
 - Michelle R. Koutnik, Shane Byrne, Bruce C. Murray, Anthony D. Toigo, **Zane A. Crawford** (2005) “Eolian Controlled Modification of the Martian South Polar Layered Deposits.” Icarus, Vol 174, Issue 2, Pages 490-501 (doi: [10.1016/j.icarus.2004.09.015](https://doi.org/10.1016/j.icarus.2004.09.015))
 
 # Conference Presentations
 
+- **Zane Selvans** (2024). "Open Data Engineering for Public Utility Data Liberation (PUDL)." Modeling the Energy Transition (Seminar). Institute for Policy Integrity, NYU School of Law.
 - **Zane Selvans**, Christina Gosnell (2021). "Distributing Power with Open Data." csv,conf,v6.
 - Christina Gosnell, **Zane Selvans** (2021). "Distributing Power with Open Data." Closing Keynote. Summit of the Research Data Access & Preservation Association.
 - **Zane Selvans** (2019). "Public Utility Data Liberation" csv,conf,v4 (doi: [10.5281/zenodo.2825634](https://doi.org/10.5281/zenodo.2825634))
