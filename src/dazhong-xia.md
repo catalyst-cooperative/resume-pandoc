@@ -107,3 +107,7 @@ Participant
 
 - Wrote a Git clone in Haskell
 - Worked on NAND2Tetris: designed a CPU, wrote an assembler, and wrote a compiler
+
+# Conference Presentations
+
+- **Dazhong Xia (panel facilitator)** - Catalyst Cooperative,  Greg Schivley - Princeton University, Ted Nance - Global Energy Monitor, Christina Gosnell - Catalyst Cooperative, and Greg Miller - Singularity Energy (2023). "Let's talk about open data for energy modelling." Open Energy Modeling Initiative meets USA Workshop.

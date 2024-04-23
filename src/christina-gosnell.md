@@ -64,7 +64,7 @@ Research Assistant
 
 # Conference Presentations
 
-- Dazhong Xia - Catalyst Cooperative,  Greg Schivley - Princeton University, Ted Nance - Global Energy Monitor), **Christina Gosnell** - Catalyst Cooperative, and Greg Miller - Singularity Energy (2023). "Let's talk about open data for energy modelling." Open Energy Modeling Initiative meets USA Workshop.
+- Dazhong Xia - Catalyst Cooperative,  Greg Schivley - Princeton University, Ted Nance - Global Energy Monitor, **Christina Gosnell** - Catalyst Cooperative, and Greg Miller - Singularity Energy (2023). "Let's talk about open data for energy modelling." Open Energy Modeling Initiative meets USA Workshop.
 - Oriana Chegwidden, Tamara Zelikova, Lydia Jennings, Chelle Gentemann, Gretchen Goldman, Derek Pierson, LaKisha Odom, **Christina Gosnell**, Grayson Badgley (2021). "Open Science for Equitable Climate Action Panel." AGU 2021 Fall Meeting.
 - Zane Selvans, **Christina Gosnell** (2021). "Distributing Power with Open Data." csv,conf,v6.
 - **Christina Gosnell**, Zane Selvans (2021). "Radical Change and Data Keynote." Closing Keynote. Summit of the Research Data Access & Preservation Association.
