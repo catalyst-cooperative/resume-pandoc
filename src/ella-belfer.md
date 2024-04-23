@@ -75,7 +75,8 @@ Research Assistant
 
 # Publications and Outputs
 
-- Belfer, E., Rempel, J., Ray, I. & Morello-Frosch, R. Surfacing overlying rights: Transitions in access to California’s groundwater basins. Under review at Environmental Research Letters.
+- Belfer, E. (2023, October 14). The Public Utility Data Liberation Project. OpenMod Conference, Palo Alto, CA, United States.
+- Rempel, J., Belfer, E., Ray, I. & Morello-Frosch, R. Access for sale? Overlying rights, land transactions, and groundwater in California (2024). Environmental Research Letters, 19 024017.
   - Presented at the 2021 AAG conference.
 - Lesnikowski, A., Belfer, E., Rodman, E., Biesbroek, R., Smith, J., Wilkerson, J.D., Ford, J.D., Berrang Ford, L. (2019). Frontiers in data analytics for adaptation research: Topic modeling, WIRES Climate Change, e576 1-15.
 - Contributing author. IPCC Special Report on Global Warming of 1.5°C (2018), Chapter 4: Strengthening and implementing the global response to the threat of climate change.
