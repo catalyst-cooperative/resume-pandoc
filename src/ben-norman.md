@@ -27,8 +27,6 @@ Catalyst creates and maintains an open source data pipeline that automatically c
 
 ## Envelope
 
-<!-- When did Ben stop working at Envelope? -->
-
 Data Scientist
 : Aug 2019 - Aug 2021
 
@@ -63,7 +61,22 @@ a 3D model recommendation system.
   - Presented the paper in Mexico City and received a Student scholarship award.
 - Matrix Architecture: 3D-Printed and Simulated Kirigami Matrices & Auxetic Materials: SimAUD 2017
 
+# Conference Presentations
+
+- **Bennett Norman (presentor)** - Catalyst Cooperative: "Removing data barriers for decarbonization with the Public Utility Data Liberation Project (EN)" [CSV Conf](https://csvconf.com/) 2024.
+- **Bennett Norman (presentor)** - Envelope: "Pushing the Envelope: Zoning Analysis in 3D" [NYC Open Data Week 2021](https://youtu.be/oVpZ35qoxhw?si=z40f6Frw0ynoL8TR&t=1352).
+
+# Skills
+
+Python, Pandas, Dagster, Github Actions, GCP, Docker, Geospatial Python
+
 # Projects
+
+### Gridle
+
+**December 2023 - Present**
+
+I created a [silly game](https://gridle.bendnorman.com/) inspired by Wordle where you have to guess a US state given it's electricity generation fuel mix.
 
 ### NYC Affordable Opportunity
 
@@ -77,11 +90,7 @@ A project analyzing the distribution of new affordable units in areas of opportu
 
 I worked on a research project to improve image captioning by implementing a loss function that computers semantic similarity between captions using Word Movers Distance. We were advised by Professor Kilian Weinberger.
 
-# Skills
+# Hobbies
 
-Python, Pandas, Dagster, scikit-learn, Docker, postgis, Geospatial Python, GCP, PyTorch, streamlit, QGIS
+Climbing, Music (Saxophone, Keyboard, Guitar), Cooking and crafting.
 
-# Miscellaneous
-
-[Housing Data Coalition](https://www.housingdatanyc.org/), Climbing, Music (Saxophone, Keyboard, Guitar), Making
-Things. Recent Books: All We Can Save, The Ministry For the Future, Rewiring America, The Color of Law
