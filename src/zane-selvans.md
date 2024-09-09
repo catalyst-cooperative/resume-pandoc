@@ -92,6 +92,7 @@ Build and Integration Engineer
 
 # Conference Presentations
 
+- **Zane Selvans** (2024). "The Public Utility Data Liberation Project: Providing Open Data For a Clean Energy Transition." North American Power Symposium.
 - **Zane Selvans** (2024). "Workplace Democracy, Open Source, and Open Data." csv,conf,v8.
 - **Zane Selvans** (2024). "Open Data Engineering for Public Utility Data Liberation (PUDL)." Modeling the Energy Transition (Seminar). Institute for Policy Integrity, NYU School of Law.
 - **Zane Selvans**, Christina Gosnell (2021). "Distributing Power with Open Data." csv,conf,v6.

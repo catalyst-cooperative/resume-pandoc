@@ -73,6 +73,10 @@ Software Engineering Intern
 - Preliminary findings show correlations between socioeconomics (income, race, education level) and proximity to non-residential solar projects
 - Potential use for Biden administration’s environmental justice and infrastructure initiatives
 
+# Conference Presentations
+
+- **Katherine Lamb** (2024). "Tracing nested corporate interests in the U.S. fossil fuel industry." Mozilla Festival Netherlands 2024.
+
 # Skills
 
 Python, C++, C, Julia, SQL, NumPy, Pandas, GeoPandas, Git, Jupyter, PyTorch, Tensorflow, Scikit-learn, Matplotlib, Linux, Excel
