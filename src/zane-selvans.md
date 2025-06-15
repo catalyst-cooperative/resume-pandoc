@@ -29,7 +29,8 @@ Co-Founder, Data Liberation Engineer
 - Developed an open source data processing pipeline to supply analysis-ready US energy system data to researchers, NGOs, policymakers, and small businesses.
 - Designed databases and data warehouses for distributing open energy system data.
 - Managed software and data releases, automated raw data archiving processes, software testing, and platform deployment.
-- Led grant writing efforts securing over $700,000 of private foundation support for open energy system data integration.
+- Led grant writing efforts securing over $1,000,000 of public and private foundation support for open energy system data integration.
+- Represented Catalyst in the U.S. National Science Foundation's I-Corps entrepreneurial training program.
 - Integrated decades of energy system data collected by US government agencies including FERC, EIA, and EPA for publication as freely available, analysis-ready data products.
 - Used machine learning techniques to link related power plant records across decades of FERC Form 1 data.
 - Built a tool to convert FERC data distributed using an obsolete binary database format into SQLite for improved accessibility and interoperability.
@@ -84,8 +85,9 @@ Build and Integration Engineer
 
 # Publications
 
-- **Zane Selvans**, Christina Gosnell, Austen Sharpe, Bennett Norman, Trenton Bush, Zach Schira, Katherine Lamb, Ella Belfer, Dazhong Xia (Last Updated: Feb., 2024). Public Utility Data Liberation (PUDL) Project Data Release. (doi: [10.5281/zenodo.3653158](https://doi.org/10.5281/zenodo.3653158))
-- **Zane Selvans**, Christina Gosnell, Austen Sharpe, Trenton Bush, Bennett Norman, Zach Schira, Katie Lamb, Ella Belfer, Dazhong Xia (Last Updated: Feb., 2024). Public Utility Data Liberation (PUDL) Project Software Release. Zenodo. (doi: [10.5281/zenodo.3404014](https://doi.org/10.5281/zenodo.3404014))
+- Katherine Lamb, Ella Belfer, **Zane Selvans**, Bennett Norman, Christina Gosnell, Dazhong Xia, Austen Sharpe, Zach Schira (2024), "The Public Utility Data Liberation Project: Providing Open Data For a Clean Energy Transition", Proceedings of the 56th North American Power Symposium, (doi: [10.1109/NAPS61145.2024.10741747](https://doi.org/10.1109/NAPS61145.2024.10741747))
+- **Zane Selvans**, Christina Gosnell, Austen Sharpe, Bennett Norman, Trenton Bush, Zach Schira, Katherine Lamb, Ella Belfer, Dazhong Xia (Last Updated: May, 2025). Public Utility Data Liberation (PUDL) Project Data Release. (doi: [10.5281/zenodo.3653158](https://doi.org/10.5281/zenodo.3653158))
+- **Zane Selvans**, Christina Gosnell, Austen Sharpe, Trenton Bush, Bennett Norman, Zach Schira, Katie Lamb, Ella Belfer, Dazhong Xia (Last Updated: May, 2025). Public Utility Data Liberation (PUDL) Project Software Release. Zenodo. (doi: [10.5281/zenodo.3404014](https://doi.org/10.5281/zenodo.3404014))
 - John Wahr, **Zane A. Selvans**, McCall E.Mullen, Amy C. Barr, Geoffrey C. Collins, Michelle M. Selvans, Robert T. Pappalardo (2009). “Modeling Stresses on Satellites due to Non-Synchronous Rotation and Orbital Eccentricity Using Gravitational Potential Theory“ Icarus, Vol. 200, Issue 1, Pages 188-206 (doi: [10.1016/j.icarus.2008.11.002](https://doi.org/10.1016/j.icarus.2008.11.002))
 - **Zane A. Selvans** (2009) “Time, Tides, and Tectonics on Icy Satellites.” University of Colorado, PhD Dissertation. (doi: [10.5281/zenodo.3455892](https://doi.org/10.5281/zenodo.3455892))
 - Michelle R. Koutnik, Shane Byrne, Bruce C. Murray, Anthony D. Toigo, **Zane A. Crawford** (2005) “Eolian Controlled Modification of the Martian South Polar Layered Deposits.” Icarus, Vol 174, Issue 2, Pages 490-501 (doi: [10.1016/j.icarus.2004.09.015](https://doi.org/10.1016/j.icarus.2004.09.015))
@@ -158,5 +160,6 @@ City of Boulder Working Group Member
 
 - Policy analysis related to climate change, electricity regulation, and energy systems, with focus on risk tolerance, discount rates, coal supply economics, carbon pricing, and the operational and maintenance costs of existing generation assets.
 - Data analysis and visualization using Python, NumPy, pandas, Matplotlib, Jupyter Notebooks, scikit-learn, and other open source technologies.
-- Scientific software engineering in Python, using Git, PyTest, continuous integration, code profiling, symbolic debugging.
+- Data engineering and data lakehouse design using the Dagster orchestration framework, Google Batch, dbt, DuckDB, and Apache Parquet.
+- Scientific software engineering in Python, using Git, pytest, CI/CD with GitHub Actions, code profiling, symbolic debugging.
 - Native English speaker, functional fluency in Spanish
