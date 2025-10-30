@@ -69,7 +69,7 @@ Graduate Student Instructor
 Research Assistant
 : May 2016 - Aug 2018
 
-- Wrote and conducted background research for IPCC Special Report on 1.5°C and UNEP Adaptation Gap report, with a focus on vulnerability assessments to inform climate change adaptation planning.
+- Wrote and conducted background research for IPCC Special Report on 1.5\textdegree C and UNEP Adaptation Gap report, with a focus on vulnerability assessments to inform climate change adaptation planning.
 - Developed methodology to conduct topic modeling analysis of state adaptation policies, writing and publishing manuscript for non-technical audience.
 - Provided ongoing editorial support for journal articles, grant proposals, and public communications for the CCARG lab.
 
@@ -79,7 +79,7 @@ Research Assistant
 - Rempel, J., Belfer, E., Ray, I. & Morello-Frosch, R. Access for sale? Overlying rights, land transactions, and groundwater in California (2024). Environmental Research Letters, 19 024017.
   - Presented at the 2021 AAG conference.
 - Lesnikowski, A., Belfer, E., Rodman, E., Biesbroek, R., Smith, J., Wilkerson, J.D., Ford, J.D., Berrang Ford, L. (2019). Frontiers in data analytics for adaptation research: Topic modeling, WIRES Climate Change, e576 1-15.
-- Contributing author. IPCC Special Report on Global Warming of 1.5°C (2018), Chapter 4: Strengthening and implementing the global response to the threat of climate change.
+- Contributing author. IPCC Special Report on Global Warming of 1.5\textdegree C (2018), Chapter 4: Strengthening and implementing the global response to the threat of climate change.
 - Belfer, E., Ford, J.D., Maillet, M., Araos, M., Flynn, M. Pursuing an Indigenous Platform: Exploring Opportunities and Constraints for Indigenous Participation in the UNFCCC, Global Environmental Politics, 19(1), 12-33.
 - Belfer, E., Ford, J.D., Maillet, M. (2017). Representation of Indigenous peoples in climate change reporting, Climatic Change, 145(1-2), 57-70.
   - Selected to be one of Nature Climate Change’s Research Highlights, and presented at the 2017 ArcticNet conference.
