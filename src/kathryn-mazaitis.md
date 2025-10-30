@@ -8,8 +8,6 @@ right-column:
   - "GitHub: [github.com/krivard](https://github.com/krivard)"
 ...
 
-# Summary
-
 # Experience
 
 ## Catalyst Cooperative
@@ -21,7 +19,6 @@ Data Wrangler
 - Developing an introductory course in open data science and collaborative software engineering for early-career graduate students who may not have a computer science background.
 - Developing internal tooling for project planning and resource allocation.
 - Writing project proposals, grant reports, blog posts, and technical documentation.
-- Using Python, R, GitHub Actions, Jinja, dbt, Docker, AWS, and GCP.
 
 ## Carnegie Mellon University
 
@@ -36,8 +33,6 @@ Principal Research Programmer
 - Scaled a database beyond the capacity of signed 32-bit integer IDs and navigated the bumpy transition to uint64.
 - Wrote project proposals, quarterly OKRs, blog posts, and papers.
 - Wrote and delivered technical talks to expert and novice audiences.
-- Used Python, R, HTML/Svelte, GitHub Actions, PHP, possibly-excessive creative applications of GNU Make, MariaDB, MySQL, Flask, Docker, Hugo, and AWS.
-
 
 Senior Research Programmer
 : 2018 - 2020
@@ -47,7 +42,6 @@ Senior Research Programmer
 - Advised students on programming, troubleshooting, and project management for research projects.
 - Maintained servers and network storage for students.
 - Wrote papers and project documentation.
-- Used Python, Java/Android, Django, and Prolog.
 
 Senior Research Programmer
 : 2009 - 2018
@@ -59,20 +53,22 @@ Senior Research Programmer
 - Advised students on programming, troubleshooting, and project management for research projects.
 - Maintained servers and network storage for students.
 - Wrote papers and project documentation.
-- Used Java, Python, R, creative applications of GNU Make, Prolog, Tomcat/Struts, Solr, HTML/CSS, and AWS.
 
 Research Programmer / Analyst
 : 2007 - 2009
 
 - Anthony Tomasic, Institute for Software Research
 - Developed prototype user interfaces and fullstack production software for novel digital assistants.
-- Assisted with live user studies.
+- Developed and ran wizard-of-oz utilities during live user studies.
 - Wrote papers and project documentation.
-- Used JavaScript, Java/Tomcat, and obscure corners of the Mozilla Firefox plug-in architecture; also Adobe Air, HyperCard, and paper prototyping.
 
-# Projects
+# Selected Publications
 
-# Publications
+- Joshi, Ananya, **Kathryn Mazaitis**, Roni Rosenfeld, and Bryan Wilder. “Computationally Assisted Quality Control for Public Health Data Streams.” In Proceedings of the International Joint Conference on Artificial Intelligence, Vol. 32, 2023. https://arxiv.org/abs/2306.16914
+- Arabshahi, Forough, Jennifer Lee, Mikayla Gawarecki, **Kathryn Mazaitis**, Amos Azaria, and Tom Mitchell. “Conversational Neuro-Symbolic Commonsense Reasoning.” In Proceedings of the AAAI Conference on Artificial Intelligence, 35:4902–11, 2021. https://arxiv.org/abs/2006.10022
+- Cohen, William, Fan Yang, and **Kathryn Mazaitis**. “Tensorlog: A Probabilistic Database Implemented Using Deep-Learning Infrastructure.” Journal of Artificial Intelligence Research 67 (2020): 285–325.
+- **Mazaitis, Kathryn**, and Haakon Faste. “How Learning Works in Design Education: Educating for Creative Awareness Through Formative Reflexivity.” In Proceedings of the Designing Interactive Systems Conference, 298–307, 2012 (Honorable mention)
+- Gardiner, Steven, Anthony Tomasic, John Zimmerman, Rafae Aziz, and **Kathryn Mazaitis**. “Mixer: Mixed-Initiative Data Retrieval and Integration by Example.” In Proceedings of the 13th IFIP TC 13 International Conference on Human-Computer Interaction - Volume Part I, 426–43. Interact’11. Lisbon, Portugal: Springer-Verlag, 2011 (Brian Shackel Award / Best Paper)
 
 # Education
 
@@ -86,3 +82,5 @@ Franklin W. Olin College of Engineering, Needham MA
 : Engineering with Concentration in Computing, B.Sc.; 2006.
 
 # Skills
+
+Python, R, GitHub, Jinja, dbt, Docker, AWS, GCP, HTML/CSS, PHP, GNU Make, MariaDB, MySQL, Flask, Hugo, Java, Django, Prolog, JavaScript, Solr, Linux, MacOS, bash, LaTeX, typst
