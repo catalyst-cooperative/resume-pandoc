@@ -64,6 +64,9 @@ Research Assistant
 
 # Conference Presentations
 
+- **Christina Gosnell** (2025). "Open U.S. Energy Data." United States Association of Energy Economists/International Association for Energy Economists North American Conference.
+- **Christina Gosnell** - Catalyst Cooperative, BJ Byers - Duke Energy, Dheepak Krishnamurthy - EPRI (2025). "Modernizing Planning through Technology and Data". Invited panel presentation. EPRI Resource Planning Seminar.
+- **Christina Gosnell** - Catalyst Cooperative, Tom Kouroughli - TransitionZero, Tobias Augspurger - Open Energy Transitions (2025). "Data curator perspectives: capacity expansion input operability." Invited presentation. G-PST Workshop - Multi-Model Workflows for Integrated System Planning.
 - Dazhong Xia - Catalyst Cooperative,  Greg Schivley - Princeton University, Ted Nance - Global Energy Monitor, **Christina Gosnell** - Catalyst Cooperative, and Greg Miller - Singularity Energy (2023). "Let's talk about open data for energy modelling." Open Energy Modeling Initiative meets USA Workshop.
 - Oriana Chegwidden, Tamara Zelikova, Lydia Jennings, Chelle Gentemann, Gretchen Goldman, Derek Pierson, LaKisha Odom, **Christina Gosnell**, Grayson Badgley (2021). "Open Science for Equitable Climate Action Panel." AGU 2021 Fall Meeting.
 - Zane Selvans, **Christina Gosnell** (2021). "Distributing Power with Open Data." csv,conf,v6.

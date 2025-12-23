@@ -75,6 +75,8 @@ Research Assistant
 
 # Publications and Outputs
 
+- Belfer, E. (2025, December 16). Liberating U.S. Energy Data: Addressing Shared Data Barriers in Macro Energy Systems Research. American Geophysical Union, New Orleans, LA, United States.
+- Lamb, K., Belfer, E., Selvans, Z., Norman, B., Gosnell, C., Xia, D., Sharpe, A. & Schira, Z. (2024), "The Public Utility Data Liberation Project: Providing Open Data For a Clean Energy Transition", Proceedings of the 56th North American Power Symposium, (doi: [10.1109/NAPS61145.2024.10741747](https://doi.org/10.1109/NAPS61145.2024.10741747))
 - Belfer, E. (2023, October 14). The Public Utility Data Liberation Project. OpenMod Conference, Palo Alto, CA, United States.
 - Rempel, J., Belfer, E., Ray, I. & Morello-Frosch, R. Access for sale? Overlying rights, land transactions, and groundwater in California (2024). Environmental Research Letters, 19 024017.
   - Presented at the 2021 AAG conference.
