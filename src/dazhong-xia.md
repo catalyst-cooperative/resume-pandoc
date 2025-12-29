@@ -113,4 +113,7 @@ Participant
 
 # Conference Presentations
 
-- **Dazhong Xia (panel facilitator)** - Catalyst Cooperative,  Greg Schivley - Princeton University, Ted Nance - Global Energy Monitor, Christina Gosnell - Catalyst Cooperative, and Greg Miller - Singularity Energy (2023). "Let's talk about open data for energy modelling." Open Energy Modeling Initiative meets USA Workshop.
+- **Dazhong Xia** (2025). "Automatically Archiving, Cleaning, Processing, and Distributing Energy Data For Public Accessibility." American Geophysical Union.
+- **Dazhong Xia** (2025). "A Small Tool for Medium Data." Improving Scientific Software Conference.
+- **Dazhong Xia** (2024). "Secondary Data Processing." Invited presentation. Developing an Industrial Sector Data Commons. A workshop hosted by Resources for the Future and NREL.
+- **Dazhong Xia (panel facilitator)** - Catalyst Cooperative,  Greg Schivley - Princeton University, Ted Nace - Global Energy Monitor, Christina Gosnell - Catalyst Cooperative, and Greg Miller - Singularity Energy (2023). "Let's talk about open data for energy modelling." Open Energy Modeling Initiative meets USA Workshop.

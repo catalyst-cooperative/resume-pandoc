@@ -75,6 +75,7 @@ Software Engineering Intern
 
 # Conference Presentations
 
+- **Katherine Lamb** (2025). "Creating an open-source dataset of corporate ownership." TWEEDS 2025.
 - **Katherine Lamb** (2024). "Tracing nested corporate interests in the U.S. fossil fuel industry." Mozilla Festival Netherlands 2024.
 
 # Skills
