@@ -21,8 +21,9 @@ Software Engineer
 : Jan 2021 - Present
 
 - Develop open source software to archive, clean, and distribute US federal energy data
-- Improve automation tooling to reduce manual overhead, and make processes more scalable and reproducible
-- Create tools to handle obscure data formats, and hard to access data sources
+- Improve automation tooling to reduce manual overhead and make processes more scalable and reproducible
+- Develop ML/AI tools to link records across related but disconnected datasets
+- Design pipeline capable of efficiently processing and distributing hundreds of gigabytes of data
 
 ## NASA GSFC
 
