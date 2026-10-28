@@ -20,12 +20,13 @@ University of Chicago
 Software Engineer
 : Jan 2023 - present
 
-- Develop tools for archiving and cleaning federal energy sector data from a variety of sources
+- Develop automated tools for archiving and cleaning US energy sector data
 - Develop browser-based data search, exploration, filtering, and export tool for users to manage hundreds of data tables
-- Clarify team priorities and next steps by refining project management processes
-- Design and implement new data processing systems for client organizations
-- Design and manage an inclusive hiring process, hiring two people from a pool of 100+ applicants over the course of two months
-- Develop educational materials, using best practices developed by The Carpentries, to support energy systems researchers in making robust and maintainable software
+- Manage project development in order to ship useful functionality in accordance with budget and stakeholder expectations
+- Design and implement data infrastructure for client organizations
+<!-- - Design and manage an inclusive hiring process, hiring two people from a pool of 100+ applicants over the course of two months -->
+- Drive collaborative seasonal planning process balancing stakeholder needs, internal initiatives, and budgetary constraints
+<!-- - Develop educational materials, using best practices developed by The Carpentries, to support energy systems researchers in making robust and maintainable software !-->
 - Introduce Terraform to manage secrets and cloud infrastructure, allowing for easier set-up of client environments
 - Engage and support open source contributors with code review, testing support, and design discussions
 
